@@ -1,4 +1,4 @@
-- 👋 Hi/Hallo, I’m @nyoy
+- 👋 Hallo, I’m @nyoy
 
 - 📚 I’m currently learning C# and Python
 
